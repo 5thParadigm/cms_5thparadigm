@@ -7,6 +7,10 @@ source 'http://rubygems.org'
 
 gem 'pg'
 
+
+# refinery plug-ins
+gem 'refinerycms-inquiries', '~> 1.0.0'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
